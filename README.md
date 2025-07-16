@@ -98,6 +98,21 @@
 
 ###
 
+<h3 align="center">🌐 Coding Profiles</h3>
+
+<p align="center">
+  <a href="https://leetcode.com/u/palakcodes/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/kumrawatp2004/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GFG Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/palak_k_" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+</p>
+
+
 <h2 align="center">🕘Stats</h2>
 
 ###
