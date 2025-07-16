@@ -104,14 +104,11 @@
 
 <br clear="both">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palak-k5&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palak-k5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="160" alt="languages graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=palak-k5&theme=chalk&no-frame=false&no-bg=true&margin-w=10&title=Multilanguage,Commits,Repositories,Experience,PullRequest" height="150" alt="trophy graph" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=palak-k5&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palak-k5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="170" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=palak-k5&theme=chalk&column=-1&row=1&margin-w=10&margin-h=10&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
 
