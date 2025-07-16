@@ -14,10 +14,9 @@
 </div>
 
 ###
+###
 
 <h2 align="center">💼 Technical Skills</h2>
-
-###
 
 <br clear="both">
 <div align="center">
@@ -67,11 +66,10 @@
 </div>
 
 ###
-
-<h2 align="center">📚 Projects Built</h2>
-
 ###
 
+
+<h2 align="center">📚 Projects Built</h2>
 <br clear="both">
 
 <h3 style="font-size:18px;" align="center">🔗 URL Shortener — short Urls,Custom alias, QR support, real-time analytics<br>🧠 AlgoVisual — Graph algorithm visualizer (BFS, DFS, Dijkstra, A*)<br>💼 Hire — Full-featured hiring platform for students and recruiters</h3>
@@ -85,23 +83,22 @@
 </picture>
 
 ###
-
-<h2 align="center">🌱 Currently Exploring and Working On</h2>
-
 ###
 
+<h2 align="center">🌱 Currently Exploring and Working On</h2>
 <p style="font-size:18px;" align="center">🖊️ Real-Time Whiteboard — Exploring WebSockets and real-time systems using Node.js.<br>🎥  MongoDB virtual internship project with mentor guidance and peer collaboration.<br>📌 Exploring WebSockets ,Real-time Systems,Cloud Native Technologies.</p>
 
 ###
-
+###
 <h3 align="center">🌐 Coding Profiles</h3>
 
 <p align="center">
-  <a href="https://leetcode.com/u/palakcodes/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
+  
   <a href="https://www.geeksforgeeks.org/user/kumrawatp2004/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GFG Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/palakcodes/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
   </a>
   <a href="https://www.hackerrank.com/profile/palak_k_" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
@@ -109,10 +106,9 @@
 </p>
 
 ###
+###
 
 <h2 align="center">🕘Stats</h2>
-
-###
 
 <p  style="font-size:18px;"align="center">
   <!-- GitHub Stats -->
@@ -128,10 +124,9 @@
 </p>
 
 ###
+###
 
 <h2 align="center">📫 Let's Connect!</h2>
-
-###
 
 <br clear="both">
 
