@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1AB6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Palak+Kumrawat!;Full-Stack+Developer+%7C+Cloud+Explorer;Building+Projects+with+Purpose+%26+Passion!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1AB6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Palak+Kumrawat!;Full-Stack+Developer+%7C+Cloud+Explorer;Building+things+with+Purpose+%26+Passion!" alt="Typing SVG" />
 </p>
 
 ---
 
-☘ Hey there, I'm 🍀Palak!🍀  
-Quick Witted Girl , With a rather trying attitude 💡  
+☘️ Hey there, I'm **Palak!** 🍀  
+A quick-witted girl with a relentless drive to learn, build, and grow 💡  
+
 
 🎓 I’m 5th year dual degree B.Tech–M.Tech Undergrad in Information Technology at **IIPS, DAVV Indore (2021–2026)**. I'm passionate about solving real-world problems using technology, and I love building full-stack web applications with clean UI and modular systems .
 
