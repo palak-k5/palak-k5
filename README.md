@@ -112,9 +112,9 @@
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=palak-k5&theme=chalk&column=3&no-frame=false&no-bg=true&margin-w=15&margin-h=15&title=Multilanguage,Commits,Repositories,Experience,PullRequest" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=palak-k5&theme=chalk&no-frame=true&no-bg=true&margin-w=10&margin-h=5&title=Multilanguage,Commits,Repositories,Experience,PullRequest" />
+</p>
 
 ###
 
