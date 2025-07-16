@@ -1,24 +1,56 @@
-<h1 align="center">Hi 👋, I'm Palak Kumrawat</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=palak-k5&label=Profile%20views&color=0e75b6&style=flat" alt="palak-k5" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palak-k5" alt="palak-k5" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/palak-kumrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak-kumrawat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/palakkumrawat6878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="palakkumrawat6878" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/palakcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palakcodes" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1AB6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Palak+Kumrawat!;Full-Stack+Developer+%7C+Cloud+Explorer;Building+Projects+with+Purpose+%26+Passion!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palak-k5&show_icons=true&locale=en&layout=compact" alt="palak-k5" /></p>
+☘ Hey there, I'm 🍀Palak!🍀  
+Quick Witted Girl , With a rather trying attitude 💡  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palak-k5&show_icons=true&locale=en" alt="palak-k5" /></p>
+🎓 I’m 5th year dual degree B.Tech–M.Tech Undergrad in Information Technology at **IIPS, DAVV Indore (2021–2026)**. I'm passionate about solving real-world problems using technology, and I love building full-stack web applications with clean UI and modular systems .
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+---
+
+### 💼 Technical Skills 
+🌐 **Frontend ** — React.js, Tailwind CSS, JavaScript  
+⚙️ **Backend Development** — Node.js, Express.js, MongoDB, MySQL  
+🧠 **Problem Solving** — (300+ Qs on LeetCode & GFG)  (University Rank -7(GFG))
+📦 **Tools & Platforms** — Git, VS Code, Figma, Postman, Docker (basics)
+
+---
+
+### 🚀 Projects I'm Working On  
+🖊️ **Real-Time Whiteboard** — Exploring WebSockets and real-time systems using Node.js  
+🎥 **Video Conferencing Web App** — MongoDB virtual internship project with mentor guidance and peer collaboration  
+☁️ **Cloud Native Learning** — Code Without Barriers Mentorship (Microsoft + Azure Dev Community): Docker, Kubernetes & cloud-native ecosystems  
+
+---
+
+### 📚 Projects Built  
+🔗 [**URL Shortener**](https://github.com/palak-k5/URL-Shortener) — short Urls,Custom alias, QR support, real-time analytics  
+🧠 [**AlgoVisual**](https://github.com/palak-k5/AlgoVisual) — Graph algorithm visualizer (BFS, DFS, Dijkstra, A*)  
+💼 [**Hire**](https://github.com/palak-k5/Hire) — Full-featured hiring platform for students and recruiters  
+
+---
+
+### 🌟 Highlights & Achievements  
+🏆 Code Without Barriers Mentee *(Azure Developer Community & ReSkill)*  
+🎓 Infosys Springboard & OracleDevGym Certified  
+🌐 Open Source Contributor (Hacktoberfest)  
+
+---
+
+### 🌱 Currently Exploring  
+- WebSockets & Real-time Systems  
+- Cloud-Native Architecture & DevOps  
+
+---
+
+### 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/palak-kumrawat/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/palak-k5)  
+📌 *Portfolio coming soon...*
+
+---
+
+> _"Driven by purpose, powered by code."_ 💻🎡
