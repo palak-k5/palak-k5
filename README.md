@@ -8,8 +8,7 @@
 A quick-witted girl with a relentless drive to learn, build, and grow 💡  
 
 
-🎓 I’m 5th year dual degree B.Tech–M.Tech Undergrad in Information Technology at **IIPS, DAVV Indore (2021–2026)**. I'm passionate about solving real-world problems using technology, and I love building full-stack web applications with clean UI and modular systems .
-
+🎓 I’m 5th year dual degree B.Tech–M.Tech Undergrad in Information Technology at **IIPS, DAVV Indore (2021–2026)**.I'm passionate about building and contributing to impact-driven applications with clean UI and modular architechtures
 ---
 
 ### 💼 Technical Skills 
