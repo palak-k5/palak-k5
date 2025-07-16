@@ -1,19 +1,14 @@
 <h2 align="center">☘️ Hey there, I'm Palak! 🍀<br>A quick-witted girl with a relentless drive to learn, build, and grow 💡</h2>
 
 ###
-
+<p style="font-size:24px;" align="left">🎓 I’m 5th year dual degree B.Tech–M.Tech Undergrad in Information Technology at IIPS, DAVV Indore (2021–2026).I'm passionate about building and contributing to impact-driven applications with clean UI and modular architechtures</p>
+ 
+###
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=palak-k5.palak-k5&right_color=darkcyan&left_text=Profile%20Views"  />
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=palak-k5.palak-k5&right_color=darkcyan&left_text=Profile%20Views"  />
-</div>
-
-###
-
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
 </div>
