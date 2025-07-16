@@ -1,4 +1,4 @@
-<h2 align="center">☘️ Hey there, I'm Palak! 🍀<br>A quick-witted girl with a relentless drive to learn, build, and grow 💡</h2>
+<h1 align="center">☘️ Hey there, I'm Palak! 🍀<br>A quick-witted girl with a relentless drive to learn, build, and grow 💡</h1>
 
 ###
 
