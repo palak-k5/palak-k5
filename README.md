@@ -102,7 +102,6 @@
 
 ###
 
-<<h3 align="center">🕘 Stats</h3>
 
 <p align="center">
   <!-- GitHub Stats -->
@@ -111,9 +110,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palak-k5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
 </p>
 
-<!-- Trophies -->
+<h3 align="center">🏆 GitHub Trophies</h3>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=palak-k5&theme=chalk&no-frame=false&no-bg=true&margin-w=10&title=Multilanguage,Commits,Repositories,Experience,PullRequest" height="150" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=palak-k5&theme=chalk&no-frame=false&no-bg=true&margin-w=20&margin-h=10&title=Multilanguage,Commits,Repositories,Experience,PullRequest" />
 </p>
 
 ###
