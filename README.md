@@ -74,7 +74,7 @@
 
 <br clear="both">
 
-<p style="font-size:18px;" align="center">🔗 URL Shortener — short Urls,Custom alias, QR support, real-time analytics<br>🧠 AlgoVisual — Graph algorithm visualizer (BFS, DFS, Dijkstra, A*)<br>💼 Hire — Full-featured hiring platform for students and recruiters</p>
+<h3 style="font-size:18px;" align="center">🔗 URL Shortener — short Urls,Custom alias, QR support, real-time analytics<br>🧠 AlgoVisual — Graph algorithm visualizer (BFS, DFS, Dijkstra, A*)<br>💼 Hire — Full-featured hiring platform for students and recruiters</h3>
 
 ###
 
