@@ -1,4 +1,4 @@
-<h1 align="center">☘️ Hey there, I'm Palak! 🍀<br>A quick-witted girl with a relentless drive to learn, build, and grow 💡</h1>
+<h2 align="center">☘️ Hey there, I'm Palak! 🍀<br>A quick-witted girl with a relentless drive to learn, build, and grow 💡</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p style="font-size:18px;" align="left">🎓 I’m 5th year dual degree B.Tech–M.Tech Undergrad in Information Technology at IIPS, DAVV Indore (2021–2026).I'm passionate about building and contributing to impact-driven applications with clean UI and modular architechtures</p>
+<p style="font-size:24px;" align="left">🎓 I’m 5th year dual degree B.Tech–M.Tech Undergrad in Information Technology at IIPS, DAVV Indore (2021–2026).I'm passionate about building and contributing to impact-driven applications with clean UI and modular architechtures</p>
 
 ###
 
