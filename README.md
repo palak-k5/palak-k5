@@ -8,8 +8,8 @@
 A quick-witted girl with a relentless drive to learn, build, and grow 💡  
 
 
-🎓 I’m 5th year dual degree B.Tech–M.Tech Undergrad in Information Technology at **IIPS, DAVV Indore (2021–2026)**.I'm passionate about building and contributing to impact-driven applications with clean UI and modular architechtures
----
+**🎓 I’m 5th year dual degree B.Tech–M.Tech Undergrad in Information Technology at **IIPS, DAVV Indore (2021–2026)**.I'm passionate about building and contributing to impact-driven applications with clean UI and modular architechtures
+**---
 
 ### 💼 Technical Skills 
 🌐 **Frontend ** — React.js, Tailwind CSS, JavaScript  
