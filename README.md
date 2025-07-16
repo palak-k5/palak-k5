@@ -1,4 +1,4 @@
-<h3 align="center">☘️ Hey there, I'm Palak! 🍀<br>A quick-witted girl with a relentless drive to learn, build, and grow 💡</h3>
+<h2 align="center">☘️ Hey there, I'm Palak! 🍀<br>A quick-witted girl with a relentless drive to learn, build, and grow 💡</h2>
 
 ###
 
@@ -14,11 +14,11 @@
 
 ###
 
-<p align="left">🎓 I’m 5th year dual degree B.Tech–M.Tech Undergrad in Information Technology at IIPS, DAVV Indore (2021–2026).I'm passionate about building and contributing to impact-driven applications with clean UI and modular architechtures</p>
+<p style="font-size:18px;" align="left">🎓 I’m 5th year dual degree B.Tech–M.Tech Undergrad in Information Technology at IIPS, DAVV Indore (2021–2026).I'm passionate about building and contributing to impact-driven applications with clean UI and modular architechtures</p>
 
 ###
 
-<h3 align="center">💼 Technical Skills</h3>
+<h2 align="center">💼 Technical Skills</h2>
 
 ###
 
@@ -72,13 +72,13 @@
 
 ###
 
-<h3 align="center">📚 Projects Built</h3>
+<h2 align="center">📚 Projects Built</h2>
 
 ###
 
 <br clear="both">
 
-<p align="center">🔗 URL Shortener — short Urls,Custom alias, QR support, real-time analytics<br>🧠 AlgoVisual — Graph algorithm visualizer (BFS, DFS, Dijkstra, A*)<br>💼 Hire — Full-featured hiring platform for students and recruiters</p>
+<p style="font-size:18px;" align="center">🔗 URL Shortener — short Urls,Custom alias, QR support, real-time analytics<br>🧠 AlgoVisual — Graph algorithm visualizer (BFS, DFS, Dijkstra, A*)<br>💼 Hire — Full-featured hiring platform for students and recruiters</p>
 
 ###
 
@@ -90,35 +90,35 @@
 
 ###
 
-<h3 align="center">🌱 Currently Exploring and Working On</h3>
+<h2 align="center">🌱 Currently Exploring and Working On</h2>
 
 ###
 
-<p align="center">🖊️ Real-Time Whiteboard — Exploring WebSockets and real-time systems using Node.js.<br>🎥  MongoDB virtual internship project with mentor guidance and peer collaboration.<br>📌 Exploring WebSockets ,Real-time Systems,Cloud Native Technologies.</p>
+<p style="font-size:18px;" align="center">🖊️ Real-Time Whiteboard — Exploring WebSockets and real-time systems using Node.js.<br>🎥  MongoDB virtual internship project with mentor guidance and peer collaboration.<br>📌 Exploring WebSockets ,Real-time Systems,Cloud Native Technologies.</p>
 
 ###
 
-<h3 align="center">🕘Stats</h3>
+<h2 align="center">🕘Stats</h2>
 
 ###
 
 
-<p align="center">
+<p  style="font-size:18px;"align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=palak-k5&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="160" alt="GitHub Stats" />
   <span style="display:inline-block; width: 20px;"></span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palak-k5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
 </p>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center">
+<p style="font-size:18px;" align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=palak-k5&theme=chalk&column=4&no-frame=false&no-bg=true&margin-w=15&margin-h=15&title=Multilanguage,Commits,Repositories,Experience,PullRequest" />
 </p>
 
 ###
 
-<h3 align="center">📫 Let's Connect!</h3>
+<h2 align="center">📫 Let's Connect!</h2>
 
 ###
 
