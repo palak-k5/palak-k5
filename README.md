@@ -72,7 +72,7 @@
 <h2 align="center">📚 Projects Built</h2>
 <br clear="both">
 
-<h3 style="font-size:18px;" align="center">🔗 URL Shortener — short Urls,Custom alias, QR support, real-time analytics<br>🧠 AlgoVisual — Graph algorithm visualizer (BFS, DFS, Dijkstra, A*)<br>💼 Hire — Full-featured hiring platform for students and recruiters</h3>
+<h3 style="font-size:18px;" align="center">Pdf Utility Suite - Full Stack Containerized AI enhanced application offering pdf management features such as splitting and merging, along with text extraction, image conversion, digital signing, and password protection. It also includes automated summaries via the Gemini AI API. 💼 Hire — Full-featured hiring platform for students and recruiters<br>🧠 AlgoVisual — Graph algorithm visualizer (BFS, DFS, Dijkstra, A*)<br>🔗 URL Shortener — short Urls,Custom alias, QR support, real-time analytics</h3>
 
 ###
 
