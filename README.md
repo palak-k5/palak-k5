@@ -71,8 +71,7 @@
 
 <h2 align="center">📚 Projects Built</h2>
 <br clear="both">
-
-<h3 style="font-size:18px;" align="center">📃Pdf Utility Suite - Full Stack Containerized AI enhanced application offering pdf management features such as splitting and merging, along with text extraction, image conversion, digital signing, and password protection. It also includes automated summaries via the Gemini AI API. <br><br>💼 Hire — Full-featured hiring platform for students and recruiters<br><br>🧠 AlgoVisual — Graph algorithm visualizer (BFS, DFS, Dijkstra, A*)<br><br>🔗 URL Shortener — short Urls,Custom alias, QR support, real-time analytics</h3>
+<h3 style="font-size:18px;" align="center">📃Pdf Utility Suite - Full Stack Containerized AI enhanced application offering pdf management features such as splitting and merging, along with text extraction, image conversion, digital signing, and password protection. It also includes automated summaries via the Gemini AI API. <br><br>💼 Hire — Full-featured hiring platform for students and recruiters<br><br>🧠 AlgoVisual — Graph algorithm visualizer (BFS, DFS, Dijkstra, A*)<br><br> Multithreaded Proxy Web Server - A multithreaded proxy web server with an LRU cache uses multiple concurrent threads to serve clients, storing recently requested content and evicting the least used items to improve performance. <br><br>🔗 URL Shortener — short Urls,Custom alias, QR support, real-time analytics</h3>
 
 ###
 
